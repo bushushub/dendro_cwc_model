@@ -9,8 +9,9 @@
 - **`VOD_analaysis.jpynb`** – annex for the reproduction of the comparative analysis between VOD and modelled output
 -  **`boundaries_data.csv`** – dataset needed for the VOD analysis 
 
-🔗 **The entire Globe LFMC 2.0 dataset can be downloaded from:**  
-[https://springernature.figshare.com/collections/_/6980418](https://springernature.figshare.com/collections/_/6980418)
+ **The entire Globe LFMC 2.0 and VODCA v2 datasets can be downloaded from:**  
+- [https://springernature.figshare.com/collections/_/6980418](https://springernature.figshare.com/collections/_/6980418)
+- https://researchdata.tuwien.at/records/t74ty-tcx62 
 
 ## **About This Repository**
 This repository serves as an **Annex** for the **M.Sc. Thesis**:  
